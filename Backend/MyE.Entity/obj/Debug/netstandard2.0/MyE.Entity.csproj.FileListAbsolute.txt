@@ -1,0 +1,36 @@
+F:\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.deps.json
+F:\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.dll
+F:\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.pdb
+F:\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csprojAssemblyReference.cache
+F:\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csproj.CoreCompileInputs.cache
+F:\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfoInputs.cache
+F:\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfo.cs
+F:\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.dll
+F:\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.pdb
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.deps.json
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.dll
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.pdb
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.dll
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.pdb
+F:\Furro\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.deps.json
+F:\Furro\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.dll
+F:\Furro\Patrones Final\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.pdb
+F:\Furro\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csprojAssemblyReference.cache
+F:\Furro\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csproj.CoreCompileInputs.cache
+F:\Furro\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfoInputs.cache
+F:\Furro\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfo.cs
+F:\Furro\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.dll
+F:\Furro\Patrones Final\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.pdb
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.deps.json
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.dll
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\bin\Debug\netstandard2.0\MyE.Entity.pdb
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.dll
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Entity\obj\Debug\netstandard2.0\MyE.Entity.pdb

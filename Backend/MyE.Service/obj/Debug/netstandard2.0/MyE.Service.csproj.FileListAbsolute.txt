@@ -1,0 +1,56 @@
+F:\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.deps.json
+F:\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.dll
+F:\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.pdb
+F:\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.dll
+F:\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.dll
+F:\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.pdb
+F:\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.pdb
+F:\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csprojAssemblyReference.cache
+F:\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CoreCompileInputs.cache
+F:\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfoInputs.cache
+F:\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfo.cs
+F:\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CopyComplete
+F:\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.dll
+F:\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.pdb
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.dll
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.pdb
+F:\Furro\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.dll
+F:\Furro\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.pdb
+F:\Furro\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.deps.json
+F:\Furro\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.dll
+F:\Furro\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.pdb
+F:\Furro\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.dll
+F:\Furro\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.dll
+F:\Furro\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.pdb
+F:\Furro\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.pdb
+F:\Furro\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csprojAssemblyReference.cache
+F:\Furro\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CoreCompileInputs.cache
+F:\Furro\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfoInputs.cache
+F:\Furro\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfo.cs
+F:\Furro\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.deps.json
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.dll
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.pdb
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.dll
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.dll
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.pdb
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.pdb
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Patrones\Patrones Final\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.deps.json
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.dll
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\bin\Debug\netstandard2.0\MyE.Service.pdb
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.dll
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.dll
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\bin\Debug\netstandard2.0\MyE.Repository.pdb
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\bin\Debug\netstandard2.0\MyE.Entity.pdb
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.dll
+C:\Users\Administrador\Desktop\Web\MyE\Backend\MyE.Service\obj\Debug\netstandard2.0\MyE.Service.pdb
