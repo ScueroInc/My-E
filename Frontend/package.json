@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@vue/cli": "^4.0.5",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^2.6.10",
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.2.11",
